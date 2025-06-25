@@ -1,8 +1,7 @@
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HaMin&fontSize=90" /> </div> <div align="center">
 안녕하세요, 개발자 김하민입니다 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Backend+%26+AI+Developer;Spring+Boot+Specialist;Machine🚀 About Me
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Backend+%26+AI+Developer;Spring+Boot+Specialist;Machine+Learning+Engineer로서 Spring Boot와 머신러닝 기술에 특화된 개발자입니다.
 
-Backend & AI Developer로서 Spring Boot와 머신러닝 기술에 특화된 개발자입니다.
 지식을 공유하고, 환경에 적응하며 팀원들과 소통하며 문화를 만들어 가는 것을 즐깁니다.
 
 🔭 현재 머신러닝과 빅데이터 기반 서비스 개발 중
@@ -56,7 +55,7 @@ OWASP 보안 가이드라인 적용 및 성능 개선
 🏆 AI 기반 투자 추천 시스템
 초보 투자자를 위한 감정적 투자 방지 및 효율적 투자 추천 시스템
 
-<div align="center"> <img src="https://img.shields.io/badge/Status-완료-brightgreen?style=for-the-badge"/> <img src="https://img.shields.io/badge/Team-개인프로젝트-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/Role-ML%20개발%20%26%20API%20연동-orange?style=for-the-badge"/> <img src="https://img.shields.io/badge/Type-경진대회%20프로젝트-purple?style=for-the-badge"/> <img src="https://img.shields.io/badge/🏆%20우수상%20수상-gold?style=for-the-badge"/> </div>
+<div align="center"> <img src="https://img.shields.io/badge/Status-완료-brightgreen?style=for-the-badge"/> <img src="https://img.shields.io/badge/Year-2024-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/Role-ML%20개발%20%26%20API%20연동-orange?style=for-the-badge"/> <img src="https://img.shields.io/badge/🏆%20우수상%20수상-gold?style=for-the-badge"/> </div>
 🔧 사용 기술:
 
 Backend: Spring Boot, Java, H2 Database
@@ -92,7 +91,7 @@ RobustScaler 등 파이썬 라이브러리를 활용한 데이터 전처리 최�
 🧠 자연어 처리 감성 분석 프로젝트
 한국어 텍스트 감성 분석을 위한 NLP 시스템
 
-<div align="center"> <img src="https://img.shields.io/badge/Status-진행중-yellow?style=for-the-badge"/> <img src="https://img.shields.io/badge/Year-2025-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/Role-NLP%20개발자-orange?style=for-the-badge"/> <img src="https://img.shields.io/badge/Type-개인%20연구-purple?style=for-the-badge"/> </div>
+<div align="center"> <img src="https://img.shields.io/badge/Status-진행중-yellow?style=for-the-badge"/> <img src="https://img.shields.io/badge/Year-2025-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/Role-NLP%20개발자-orange?style=for-the-badge"/> </div>
 🔧 사용 기술:
 
 Backend: Flask, Python
@@ -118,7 +117,7 @@ Documentation: Markdown
 🌱 부산물 매칭 플랫폼
 지역 경제 순환을 위한 기업간 부산물 매칭 웹서비스
 
-<div align="center"> <img src="https://img.shields.io/badge/Status-완료-brightgreen?style=for-the-badge"/> <img src="https://img.shields.io/badge/Year-2024-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/Role-DB%20설계%20%26%20AI%20매칭-orange?style=for-the-badge"/> <img src="https://img.shields.io/badge/Type-팀%20프로젝트-purple?style=for-the-badge"/> </div>
+<div align="center"> <img src="https://img.shields.io/badge/Status-완료-brightgreen?style=for-the-badge"/> <img src="https://img.shields.io/badge/Year-2024-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/Role-DB%20설계%20%26%20AI%20매칭-orange?style=for-the-badge"/> </div>
 🔧 사용 기술:
 
 Frontend: React, TypeScript
@@ -204,7 +203,7 @@ Fashion&Style Company와 같은 기업에서 백엔드 웹 개발자로 성장�
 <div align="left"> <img src="https://img.shields.io/badge/🥈%20IoT%20빅데이터%20성과물%20경진대회%20우수상-2024-gold?style=for-the-badge"/> <img src="https://img.shields.io/badge/🥉%20Huawei%20ICT%20Competition%202023--2024%20Network%20Track%203rd-2023-bronze?style=for-the-badge"/> </div>
 📫 연락처 및 소셜미디어
 <div align="center">
-[![Email](https://img.shields.ioelds.io/badge/Phone-010--4014--1293-25D366?style=for-the-badge&logo=whatsapp&logoColor=whiteshields.io/badge/GitHub-akadiawar-181717?style=for-the-badge&logo=github&logoColorenter">
+[![Email](https://img.shields.io/badge/Email-wimpy15@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white.shields.io/badge/Phone-010--4014--1293-25D366?style=for-the-badge&logo=whatsapp&logor">
 
 🌟 Thanks for visiting my profile! 🌟
 "지식을 공유하고, 환경에 적응하며 팀원들과 소통하며 문화를 만들어 가는 개발자"
