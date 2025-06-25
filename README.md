@@ -1,7 +1,7 @@
 # 👋 안녕하세요, 김하민입니다!
 
-> **Backend & AI Developer**  
-> 지식을 공유하고, 환경에 적응하며 팀원들과 소통하며 문화를 만들어 가는 것을 즐깁니다.
+> **Backend Developer**  
+> 안정성과 성능을 모두 고려하는 백엔드 개발자를 목표로 실무 경험을 쌓아가고 있습니다.
 
 📧 **Email**: wimpy15@naver.com  
 📱 **Phone**: 010-4014-1293  
@@ -11,30 +11,18 @@
 
 ## 🚀 소개
 
-현재 **선문대학교 컴퓨터공학과**에서 학업을 이어가며, **IoT SW 몰입형 과정**을 통해 실무 역량을 키우고 있습니다.
-
-Spring MVC 기반 아키텍처 설계부터 AI 기반 서비스 개발까지, 다양한 기술 스택을 활용한 프로젝트 경험을 보유하고 있습니다.
-
-최근에는 **머신러닝과 빅데이터**에 관심을 가지고 있으며, 실제 서비스에 적용할 수 있도록 스터디와 개발을 진행하고 있습니다[3][4][5].
+**주식 데이터 수집과 자연어 처리**에 관심을 가지고 있으며, 실제 서비스에 적용할 수 있도록 'NLP 뉴스 기반 주식 추천 서비스' 개발을 진행하고 있습니다.
 
 ---
 
 ## 🎓 학력 & 교육
 
 ### 🏫 선문대학교 - 컴퓨터공학과
-**📅 2020.03 ~ 2026.02 (예정)**
+**📅 2020.03 ~ 현재 (재학중)**
+- **학점**: 3.8 / 4.5
 
-### 🏫 풍덕고등학교
-**📅 2017.03 ~ 2020.02**
-
-### 💻 IoT SW 몰입형 과정
-**📅 2024.09 ~ 2024.12**
-
-**주요 학습 내용:**
-- Spring MVC 기반 아키텍처 설계 및 구현
-- 데이터 처리(MyBatis/JPA)와 공통 컴포넌트 적용
-- Maven 빌드 관리, JUnit 테스트, SonarQube 품질 검사
-- OWASP 보안 가이드라인 적용 및 성능 개선
+### 🏫 용인 풍덕고등학교
+**📅 2017.03 ~ 2020.02 (졸업)**
 
 ---
 
@@ -52,18 +40,17 @@ Spring MVC 기반 아키텍처 설계부터 AI 기반 서비스 개발까지, �
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### **Database & Cloud**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![H2](https://img.shields.io/badge/H2-1021FF?style=for-the-badge&logo=h2&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### **Tools & Others**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white)
-![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ---
 
@@ -78,103 +65,109 @@ Spring MVC 기반 아키텍처 설계부터 AI 기반 서비스 개발까지, �
 
 ## 🎯 주요 프로젝트
 
-### 🏆 AI 기반 투자 추천 시스템
-**📅 2024년 (IoT 빅데이터 응용 프로젝트 성과물 경진대회 우수상 수상)**
+### 🏆 주식 리밸런싱 앱서비스 (2.0 ver)
+**📅 2024년**
 
-초보 투자자들이 감정적인 투자 대신 효율적 투자를 할 수 있도록 돕는 프로그램
+기존 웹서비스를 앱으로 확장하여 사용자 편의성을 높인 주식 리밸런싱 서비스
+
+**주요 성과:**
+- API 응답 시간을 평균 3초에서 0.8초로 단축 (Redis 캐싱, DB 인덱싱, HTTP 헤더 튜닝 적용)
+- 해외주식 한글명 조회 문제 해결 (Google Translate API 활용한 2단계 번역 로직 구현)
+- RESTful API 설계 및 인증 처리 주도
+
+**기술 스택:** `Spring Boot` `MySQL` `Redis` `Google Translate API`
+
+**담당 업무:**
+- AI 모델링 및 데이터 시각화
+- GNN 모델 설계 및 구현 지원
+- 5-Factor 모델 기반 노드 정보 구축 
+- 주식 간 상관관계 분석 및 그래프 생성 
+- AI 모델 학습 및 최적화 
+- 백엔드 서버와 AI 모델 통합
+
+---
+
+### 🌱 부산물 관리 웹서비스
+**📅 2024년 (루트 임팩트 해커톤)**
+
+불필요한 부산물을 필요한 기업들에게 매칭해주는 지역 경제 순환 웹서비스
+
+**주요 성과:**
+- 팀원 불참 위기 상황에서 백엔드 전체를 단독 개발
+- Node.js와 Express.js 기반 REST API 18개 개발
+- AWS RDS 기반 MySQL과 Sequelize ORM 활용한 데이터베이스 구성
+- JWT 인증 및 CORS 설정, S3 정적 웹사이트 배포
+
+**기술 스택:** `Node.js` `Express.js` `MySQL` `AWS RDS` `AWS S3` `Sequelize` `JWT`
+
+**담당 업무:**
+- 회원가입/로그인, 회사 및 부산물 관리, 즐겨찾기, 거래 처리, AI 추천 등 핵심 기능 구현
+- API 명세서 실시간 공유 및 프론트엔드 팀과의 협업 조율
+
+---
+
+### 📈 주식 리밸런싱 웹서비스
+**📅 2024년 (IoT 빅데이터 성과물 경진대회 우수상 수상)**
+
+초보 투자자들을 위한 효율적 투자 추천 시스템
 
 **주요 기능:**
-- PORORO OCR를 통해 이미지의 글씨를 텍스트화하여 주식 정보 획득
-- 리밸런싱 비율 추천 AI를 TensorFlow를 활용하여 추천
-- 추출된 주식 정보와 표로 확인
+- PORORO OCR를 통한 이미지 텍스트 추출 및 주식 정보 획득
+- TensorFlow 기반 리밸런싱 비율 추천 AI
+- 한국투자증권 API 연동을 통한 실시간 주식 정보 조회
 
-**기술 스택:** `Java` `JavaScript` `Python` `Spring Boot` `React` `H2Base` `TensorFlow` `Kakaobrain`
+**기술 스택:** `Java` `Spring Boot` `Python` `TensorFlow` `한국투자증권 API`
 
 **담당 업무:**
 - 머신러닝 개발 및 서버 연결 담당
 - 한국 투자 증권 API 국내 주식 투자 실시간 조회 기능 구현
-- 국내 주식 연결 시 주식코드와 주식이름 모두 받을 수 있도록 구현
-- 한국 투자 증권 API 해외 주식 조회 부분 지원
+- 한국 투자 증권 API 해외 주식 조회 부분 지원 
 
 ---
 
-### 🌱 부산물 매칭 플랫폼
+### 📱 WeatherSearchApp
 **📅 2024년**
 
-불필요한 부산물을 필요한 기업들에게 매칭해 값싸게 부산물을 팔아 지역 경제를 순환시키는 웹서비스
+시니어 친화형 직관적 날씨 앱
 
 **주요 기능:**
-- 공급가능한 부산물과 필요한 부산물을 입력하여 기업 매칭
-- AI 기반 매칭 서비스
-- 실시간 부산물 거래 시스템
+- 일반 사용자와 시각 장애인을 위한 차별화된 UI/UX
+- TTS 기능을 통한 음성 날씨 정보 제공
+- 날씨 상태별 색상 구분 및 그래프 시각화
 
-**기술 스택:** `React` `TypeScript` `Node.js` `MySQL` `Express`
-
-**담당 업무:**
-- DB 설계 및 제작 구현
-- API 설계 및 API와 DB 연결
-- AI 매칭 서비스 개발
-- RDS 연동 및 EC2와 S3를 통한 배포
-
----
-
-### 📱 시니어 친화형 날씨 앱
-**📅 2024년**
-
-고령화에 발맞춰 시니어들도 직관적이고 알아보기 쉽게 사용할 수 있는 앱
-
-**주요 기능:**
-- 사용자는 버튼을 통해 일반 노인과 맹인 선택
-- 날씨를 검색이나 현위치 날씨를 받아와서 오늘, 내일, 모레 3일 간 날씨 확인
-- 맹인들은 TTS기능을 통해서 날씨 내용을 보지 않더라도 들을 수 있음
-- 날씨 상태에 따라서 한 눈에 보기 쉽도록 버튼 색과 그래프 사용
-
-**기술 스택:** `React Native` `Expo Snack` `JavaScript`
+**기술 스택:** `React Native` `Expo` `JavaScript` `TTS API`
 
 **담당 업무:**
-- TTS 기능 구현
-- 날씨 API와 앱 연동 및 구축
-- 날씨 검색 기능 및 현위치 기능 개발
-- 날씨 정보 그래프 제작
+- 회원가입/로그인, 회사 및 부산물 관리, 즐겨찾기, 거래 처리, AI 추천 등 핵심 기능 구현
 
 ---
 
 ## 🏆 주요 성과 & 수상
 
 ### **🎯 수상 경력**
+- **🥉 종합프로젝트 최종성과물 경진대회 동상** - 2025년
 - **🥈 IoT 빅데이터 성과물 경진대회 우수상** - 2024년
-- **🥉 Huawei ICT Competition 2023-2024 Network Track 3rd** - 2024년
+- **🥉 Huawei ICT Competition 2023-2024 Network Track 전국 3위** - 2024년
 
-### **📚 활동**
-- **IoT SW 몰입형 과정 수료** - 2024.09 ~ 2024.12
-- **Spring MVC 아키텍처 설계 및 구현** 프로젝트 참여
-- **OWASP 보안 가이드라인 적용** 경험
-
----
-
-## 📈 관심 분야
-
-- **🤖 AI/ML**: TensorFlow를 활용한 머신러닝 모델 개발
-- **📊 빅데이터**: 데이터 처리 및 분석 시스템 구축
-- **🔒 보안**: OWASP 가이드라인 기반 보안 강화
-- **☁️ 클라우드**: AWS 기반 인프라 구축 및 배포
+### **📚 핵심 역량**
+- **위기 대응 능력**: 팀원 불참 상황에서 백엔드 전체를 단독 개발하여 프로젝트 완수
+- **글로벌 역량**: 영어 기반 RFC 문서와 공식 API 기술서 분석 능력
 
 ---
 
-## 💡 현재 학습 중
+## 💡 현재 관심 분야
 
-- Spring Boot 고급 기능 및 마이크로서비스 아키텍처
-- 딥러닝을 활용한 자연어 처리
-- 클라우드 네이티브 애플리케이션 개발
-- DevOps 및 CI/CD 파이프라인 구축
+- **📊 주식 데이터 분석**: 웹 스크래핑을 활용한 한국 및 국제 주식 시장 데이터 수집
+- **🤖 자연어 처리**: Jupyter 노트북과 Flask를 활용한 감성 분석 (VADER, TextBlob)
+- **🔄 주식 리밸런싱**: GNN 및 DRL을 활용한 성능 최적화 연구
+- **💾 시스템 최적화**: 메모리 관리와 포인터 동작 최적화
 
 ---
 
-<div align="center">
   
 ### 📫 연락하기
   
-**함께 성장하고 싶은 개발자입니다!**  
-언제든지 연락주세요 😊
+**안정성과 성능을 모두 고려하는 백엔드 개발자**  
+함께 성장하고 싶은 개발자입니다! 언제든지 연락주세요 😊
 
 </div>
