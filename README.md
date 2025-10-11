@@ -98,7 +98,7 @@
 - AWS RDS 기반 MySQL과 Sequelize ORM 활용한 데이터베이스 구성
 - JWT 인증 및 CORS 설정, S3 정적 웹사이트 배포
 
-**기술 스택:** `Node.js` `Express.js` `MySQL` `AWS RDS` `AWS S3` `Sequelize` `JWT`
+**기술 스택:** `Node.js` `Express.js` `MySQL` `TypeScript` `AWS RDS` `AWS S3` `Sequelize` `JWT`
 
 **담당 업무:**
 - 회원가입/로그인, 회사 및 부산물 관리, 즐겨찾기, 거래 처리, AI 추천 등 핵심 기능 구현
