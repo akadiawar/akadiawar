@@ -1,56 +1,62 @@
-# 👋 안녕하세요, 김하민입니다!
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HaMin&fontSize=90" />
+</div>
 
-> **Backend Developer**  
-> 안정성과 성능을 모두 고려하는 백엔드 개발자를 목표로 실무 경험을 쌓아가고 있습니다.
+<div align="center">
 
-📧 **Email**: wimpy15@naver.com  
-📱 **Phone**: 010-4014-1293  
-🔗 **GitHub**: https://github.com/akadiawar  
+# 안녕하세요, 안정성과 성능을 고민하는 백엔드 개발자 김하민입니다 👋
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=43853D&center=true&vCenter=true&width=500&lines=Backend+Developer;Server+Architecture;Financial+Data+Processing)](https://git.io/typing-svg)
 
-## 🚀 소개
+</div>
 
-**주식 데이터 수집과 자연어 처리**에 관심을 가지고 있으며, 실제 서비스에 적용할 수 있도록 'NLP 뉴스 기반 주식 추천 서비스' 개발을 진행하고 있습니다.
+## 🚀 About Me
 
----
+> **안정성과 성능**을 모두 고려하는 백엔드 시스템 및 인프라 구축에 관심이 많은 신입 개발자입니다. 주식 데이터 분석과 금융 API 연동 역량을 바탕으로, 실제 데이터 기반의 시스템을 설계하고 최적화하는 과정을 즐깁니다.
 
-## 🎓 학력 & 교육
-
-### 🏫 선문대학교 - 컴퓨터공학과
-**📅 2020.03 ~ 2026.02**
-- **학점**: 3.8 / 4.5
-
-### 🏫 용인 풍덕고등학교
-**📅 2017.03 ~ 2020.02 (졸업)**
+- 🗣️ **위기 대응 및 책임감**: 팀원 부재 등의 위기 상황에서도 주도적으로 백엔드 전체 아키텍처를 설계하고 성공적으로 런칭한 경험이 있습니다.
+- 💡 **주도적 성장과 성과**: 주식 리밸런싱 시스템 최적화, 응답 속도 개선 등의 성과를 통해 경진대회 동상 및 우수상을 수상하였으며, 수상 이후에도 자발적으로 A-D 등급화 기능을 기획 및 추가 개발하는 등 끊임없이 프로덕트를 고도화합니다.
+- 📫 **Contact**: **wimpy15@naver.com** | **010-4014-1293**
 
 ---
 
-## 🛠️ 기술 스택
+## 🛠 주요 기술 스택
 
-### **Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+### 🔧 Backend & System
 
-### **Frameworks & Libraries**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+<p>
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-### **Database & Cloud**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### ☁️ Database & Cloud
 
-### **Tools & Others**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+<p>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img alt="Azure" src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+</p>
+
+### 📱 Frontend & Mobile
+
+<p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
+
+### 🛠 Tools & Collaboration
+
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"/>
+  <img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
+</p>
 
 ---
 
@@ -63,115 +69,107 @@
 
 ---
 
-## 🎯 주요 프로젝트
+## 🚀 프로젝트 경험
 
-### 🏆 주식 리밸런싱 앱서비스 (2.0 ver)
-**📅 2025년**
+### 🏆 주요 프로젝트
 
-기존 웹서비스를 앱으로 확장하여 사용자 편의성을 높인 주식 리밸런싱 서비스
+#### 🎯 주식 리밸런싱 AI 서비스 (App/Web)
 
-**주요 성과:**
-- API 응답 시간을 평균 3초에서 0.8초로 단축 (Redis 캐싱, DB 인덱싱, HTTP 헤더 튜닝 적용)
-- 해외주식 한글명 조회 문제 해결 (Google Translate API 활용한 2단계 번역 로직 구현)
-- RESTful API 설계 및 인증 처리 주도
+> **초보 투자자를 위한 하이브리드 AI 주식 리밸런싱 시스템 및 최적화**
 
-**기술 스택:** `Spring Boot` `MySQL` `Redis` `Google Translate API`
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-고도화%20완료-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Role-Backend%20%26%20AI-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🏆%20동상%20수상-gold?style=for-the-badge"/>
+</div>
 
-**담당 업무:**
-- AI 모델링 및 데이터 시각화
-- GNN 모델 설계 및 구현 지원
-- 5-Factor 모델 기반 노드 정보 구축 
-- 주식 간 상관관계 분석 및 그래프 생성 
-- AI 모델 학습 및 최적화 
-- 백엔드 서버와 AI 모델 통합
+**🔧 사용 기술:**
+- **Backend**: Spring Boot, MySQL, Redis, Google Translate API, 금융 API(Yahoo Finance 등)
+- **AI/ML**: Python, TGNN, DDPG
 
----
-
-### 🌱 부산물 관리 웹서비스
-**📅 2024년 (루트 임팩트 해커톤)**
-
-불필요한 부산물을 필요한 기업들에게 매칭해주는 지역 경제 순환 웹서비스
-
-**주요 성과:**
-- 팀원 불참 위기 상황에서 백엔드 전체를 단독 개발
-- Node.js와 Express.js 기반 REST API 18개 개발
-- AWS RDS 기반 MySQL과 Sequelize ORM 활용한 데이터베이스 구성
-- JWT 인증 및 CORS 설정, S3 정적 웹사이트 배포
-
-**기술 스택:** `Node.js` `Express.js` `MySQL` `TypeScript` `AWS RDS` `AWS S3` `Sequelize` `JWT`
-
-**담당 업무:**
-- 회원가입/로그인, 회사 및 부산물 관리, 즐겨찾기, 거래 처리, AI 추천 등 핵심 기능 구현
-- API 명세서 실시간 공유 및 프론트엔드 팀과의 협업 조율
+**✨ 주요 기능 및 성과:**
+- ⚡ **성능 최적화**: Redis 캐싱, DB 인덱싱, HTTP 헤더 튜닝을 통해 **API 응답 시간을 평균 3초에서 0.8초로 단축**
+- 📈 **주도적 기능 개선**: 종합프로젝트 경진대회 동상 수상 이후, 사용자 편의성 향상을 위해 주식 종목 **A-D 등급화 기능을 자발적으로 기획 및 추가 개발**
+- 🌐 **글로벌 데이터 처리**: Google Translate API를 활용한 해외주식 한글명 조회 로직 구현
+- 🤖 **AI 통합**: 5-Factor 모델 기반 노드 정보 구축 및 TGNN, DDPG 모델 설계를 지원하여 백엔드 서버와 AI 모델 통합
 
 ---
 
-### 📈 주식 리밸런싱 웹서비스
-**📅 2024년 (IoT 빅데이터 성과물 경진대회 우수상 수상)**
+#### ♻️ B2B 부산물 거래 플랫폼 (루트 임팩트 해커톤)
 
-초보 투자자들을 위한 효율적 투자 추천 시스템
+> **불필요한 부산물을 필요한 기업에 매칭해주는 지역 경제 순환 웹서비스**
 
-**주요 기능:**
-- PORORO OCR를 통한 이미지 텍스트 추출 및 주식 정보 획득
-- TensorFlow 기반 리밸런싱 비율 추천 AI
-- 한국투자증권 API 연동을 통한 실시간 주식 정보 조회
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-완료-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Role-Backend%20단독%20개발-orange?style=for-the-badge"/>
+</div>
 
-**기술 스택:** `Java` `Spring Boot` `Python` `TensorFlow` `한국투자증권 API`
+**🔧 사용 기술:**
+- **Backend**: Node.js, Express.js, TypeScript, MySQL, Sequelize ORM, JWT
+- **Cloud/Infra**: AWS RDS, AWS S3
 
-**담당 업무:**
-- 머신러닝 개발 및 서버 연결 담당
-- 한국 투자 증권 API 국내 주식 투자 실시간 조회 기능 구현
-- 한국 투자 증권 API 해외 주식 조회 부분 지원 
-
----
-
-### 📱 WeatherSearchApp
-**📅 2024년**
-
-시니어 친화형 직관적 날씨 앱
-
-**주요 기능:**
-- 일반 사용자와 시각 장애인을 위한 차별화된 UI/UX
-- TTS 기능을 통한 음성 날씨 정보 제공
-- 날씨 상태별 색상 구분 및 그래프 시각화
-
-**기술 스택:** `React Native` `Expo` `JavaScript` `TTS API`
-
-**담당 업무:**
-- 회원가입/로그인, 회사 및 부산물 관리, 즐겨찾기, 거래 처리, AI 추천 등 핵심 기능 구현
+**✨ 주요 기능 및 성과:**
+- 🚨 **위기 극복**: 팀원 부재 상황에서 **제한된 48시간 내에 백엔드 전체를 단독으로 개발 완수**
+- 🔗 **API 설계**: Node.js와 Express.js 기반 18개의 RESTful API(회원, 거래 처리, AI 추천 등) 설계 및 구현
+- ☁️ **인프라 구축**: AWS RDS 기반 데이터베이스 구성 및 CORS 설정, S3 정적 웹사이트 배포 처리
 
 ---
 
-## 🏆 주요 성과 & 수상
+#### 📈 주식 리밸런싱 웹서비스
 
-### **🎯 수상 경력**
-- **🥉 종합프로젝트 최종성과물 경진대회 동상** - 2025년
-- **🥈 IoT 빅데이터 성과물 경진대회 우수상** - 2024년
-- **🥉 Huawei ICT Competition 2023-2024 Network Track 전국 3위** - 2024년
+> **초보 투자자들을 위한 효율적 투자 추천 시스템**
 
-### **📚 핵심 역량**
-- **위기 대응 능력**: 팀원 불참 상황에서 백엔드 전체를 단독 개발하여 프로젝트 완수
-- **글로벌 역량**: 영어 기반 RFC 문서와 공식 API 기술서 분석 능력
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-완료-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Role-AI%20%26%20Server-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🏆%20우수상%20수상-gold?style=for-the-badge"/>
+</div>
 
----
+**🔧 사용 기술:**
+- Java, Spring Boot, Python, TensorFlow, 한국투자증권 API, PORORO OCR
 
-## 💡 현재 관심 분야
-
-- **📊 주식 데이터 분석**: 웹 스크래핑을 활용한 한국 및 국제 주식 시장 데이터 수집
-- **🤖 자연어 처리**: Jupyter 노트북과 Flask를 활용한 감성 분석 (VADER, TextBlob)
-- **🔄 주식 리밸런싱**: GNN 및 DRL을 활용한 성능 최적화 연구
-- **🏗️ 백엔드 서버 아키텍처**: Spring Boot 기반 마이크로서비스 설계 및 구현
-- **⚡ 서버 성능 최적화**: Redis 캐싱, 데이터베이스 인덱싱, API 응답 시간 최적화
-- **🔐 서버 보안**: JWT 인증, CORS 설정, API 보안 강화 방안
-- **☁️ 클라우드 인프라**: AWS 기반 서버 배포 및 운영, RDS와 S3 활용
-- **💾 시스템 최적화**: 메모리 관리와 포인터 동작 최적화
+**✨ 주요 기능 및 성과:**
+- 🥈 **IoT 빅데이터 성과물 경진대회 우수상 수상**
+- 📊 **금융 API 연동**: 한국투자증권 API를 연동하여 실시간 국내 주식 정보 조회 및 해외 주식 조회 지원
+- 🤖 **데이터 추출 및 AI 연동**: PORORO OCR 기반 이미지 텍스트 추출 및 TensorFlow 기반 리밸런싱 비율 추천 AI 모델 서버 연결
 
 ---
 
-  
-### 📫 연락하기
-  
-**안정성과 성능을 모두 고려하는 백엔드 개발자**  
-함께 성장하고 싶은 개발자입니다! 언제든지 연락주세요 😊
+### 🌱 기타 프로젝트
+
+#### 📱 WeatherSearchApp
+> **시니어 친화형 직관적 음성 지원 날씨 앱**
+- **기술**: React Native, Expo, JavaScript, TTS API
+- **특징**: 일반 사용자와 시각 장애인을 위한 차별화된 UI/UX 설계 및 TTS 기능을 통한 음성 날씨 정보 제공
+
+---
+
+## 🎯 목표 및 관심 분야
+
+- [ ] **Backend (Spring Boot / Node.js / FastAPI)**: 트래픽 증가와 대용량 데이터 처리를 대비한 서버 아키텍처 설계 및 REST API 고도화
+- [ ] **성능 최적화**: Redis 캐싱, 데이터베이스 인덱싱을 통한 시스템 응답 속도 개선 및 메모리 관리 최적화
+- [ ] **Cloud & Network**: AWS RDS, Azure VM 운영 경험을 바탕으로 한 안정적인 클라우드 배포 및 인프라 운영
+- [ ] **Global Competence**: 영문 기반 공식 API 문서 분석 및 OPIc 준비를 통한 글로벌 커뮤니케이션 역량 향상
+
+---
+
+## 📫 연락처 및 소셜미디어
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-wimpy15@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wimpy15@naver.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Visit-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akadiawar)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 Thanks for visiting my profile! 🌟
+
+<img src="https://komarev.com/ghpvc/?username=akadiawar&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
 
 </div>
