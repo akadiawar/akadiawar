@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 안녕하세요, 안정성과 성능을 고민하는 백엔드 개발자 김하민입니다 👋
+# 안녕하세요 안정성과 성능을 고려하는 풀스택 개발자 김하민입니다 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=43853D&center=true&vCenter=true&width=500&lines=Backend+Developer;Server+Architecture;Financial+Data+Processing)](https://git.io/typing-svg)
 
